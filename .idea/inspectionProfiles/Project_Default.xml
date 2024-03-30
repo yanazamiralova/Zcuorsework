@@ -1,0 +1,33 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E225" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="type" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="tkinten" />
+          <option value="task_7_2a.words" />
+          <option value="task_7_2a.ignore" />
+          <option value="task_7_3.words" />
+          <option value="task_7_3a.words" />
+          <option value="task_7_3a.intf" />
+          <option value="task_7_3b.intf" />
+          <option value="task_7_3b.words" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

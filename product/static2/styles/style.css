@@ -1,0 +1,260 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+/* header */
+.site-header{
+    border-bottom: 1px solid  #BBAF41;
+}
+.navbar-navs {
+    padding-top: 28px;
+    
+}
+.navbar-navs a{
+   margin-left: 41px;   
+   text-decoration: none;
+   color: #959C93;
+   font-size: 28px;
+}
+.container {
+    display: flex;
+    
+}
+.navbar-nav {
+    padding-top: 28px;  
+    margin-left: 360px;  
+}
+.navbar-nav a{
+    margin-right: 30px;
+    text-decoration: none;    
+    color: #959C93;
+    padding-top: 28px;
+    font-size: 28px;
+}
+
+/* footer */
+footer {    
+    border-top: 1px solid  #BBAF41;
+    height: 77px;
+    margin-top: 200px;
+}
+footer a{    
+    text-decoration: none;
+    color: #787878;;    
+}
+footer p {
+    text-align: center;    
+    text-decoration: none;
+    padding-top: 25px;
+}
+.container img{
+    width: 167px;
+    height: 111px;
+    margin-left: 122px;
+}
+
+
+
+/* index */
+.zalogo{
+    height: 90px;
+    background-color: #4C9022;
+    opacity: 78%;
+
+}
+h1{
+    font-size: 40px;
+    line-height: 39px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding-top: 25px;
+    padding-left: 37px;
+    color: white;
+    margin-left: 50px;
+    font-weight: normal;
+
+} 
+
+/* .containers{
+    display: grid;
+    grid-template-columns: repeat(1, 250px);
+    grid-template-rows: repeat(2, 250px);
+    gap: 5px;
+    
+} */
+
+.buton{
+    background-color:#E0E9AA ;
+    width: 382px;
+    height: 51px;
+    border-radius: 10px;
+    margin-top: 88px;
+    padding-top: 20px;
+}
+.buton a {
+    font-size: 30px;
+    text-decoration: none;
+    color: #000;
+    margin-left: 60px;
+}
+
+
+.forma {
+     width: 956px;
+    height: 653px;
+}
+.ozuv{
+    border-bottom: 1px solid #928E8E;
+    margin-bottom: 39px;
+}
+.ozuv h2{
+    font-size: 32px;
+    font-weight: normal;
+    margin: 0 auto;
+    margin-top: 56px;
+}
+.coxranit{
+    width: 273px;
+    height: 77px;
+    border-radius: 10px;
+    font-size: 30px;
+    background-color: white;
+    margin-top: 26px;
+    margin-bottom: 79px;
+}
+.textarea{
+    width: 853px;
+    height: 296px;
+    margin-top: 20px;
+}
+.requiredField{
+    font-size: 25px;
+}
+
+.vhod{
+    border-top: 1px solid #928E8E;
+
+}
+.vhod p, a{
+    font-size: 25px;
+}
+.content-section{
+    width: 956px;
+    margin-top: 61px;
+}
+.voeti{
+    width: 182px;
+    height: 77px;
+    border-radius: 10px;
+    margin-top: 59px;
+    margin-bottom: 37px;
+    background-color: white;
+}
+.textinput{
+    width: 853px;
+    height: 77px;
+}
+.passwordinput{
+    width: 853px;
+    height: 77px;
+}
+.emailinput{
+    width: 853px;
+    height: 77px;
+}
+.form-text{
+    font-size: 23px;
+    color: #928E8E;
+} 
+.form-text li{
+    font-size: 23px;
+    color: #928E8E;
+} 
+.regestraca{
+    width: 289px;
+    height: 77px;
+    border-radius: 10px;
+    background-color: white;
+    margin-top: 78px;
+    margin-bottom: 64px;
+}
+.form-group{
+    margin-top: 78px;
+}
+h2{
+    font-weight: normal;
+}
+.fil{
+    margin-left: 168px;
+    display: grid;
+    grid-template-columns: repeat(3, 250px);
+    grid-template-rows: repeat(1, 100px);
+    gap: 250px;
+    margin-top: 120px;
+}
+.filt{
+    width: 279px;
+    height: 93px;
+    border-radius: 20px;
+    border: none;
+    background-color: #E0E9AA;
+    margin-top: 30px;
+}
+.total {
+    margin-left: 300px;
+    margin-top: 280px;
+    display: grid;
+    grid-template-columns: repeat(3, 221px);
+    grid-template-rows: repeat(2, 350px);
+    gap: 120px;
+
+
+}
+.media{
+    border: 3px solid #B8B5B5;
+    width: 268px;
+    height: 420px;
+    border-radius: 10px;    
+
+}
+.media img{
+    margin-left: 91px;
+}
+.title{
+    text-align: center;
+    font-size: 18px;
+}
+.price{
+    margin-left: 34px;
+}
+.model{
+    border: none;
+    background-color: #4C9022;
+    width: 117px;
+    height: 32px;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+    margin-left: 66px;
+}
+.alert h3{
+    text-transform: uppercase;
+}
+.alert{
+    border: 1px solid black;
+    border-radius: 15px;
+    width: 976px;
+    margin-top: 74px;
+    margin-left: 33px;
+    padding-left: 33px;
+}
+.obnov{
+    width: 273px;
+    height: 77px;
+    border-radius: 10px;
+    border: none;
+    background-color: #E0E9AA;
+}
+.sss{
+    text-transform:uppercase;
+}
